@@ -22,7 +22,5 @@ API responsável por fazer o controle de registros de ponto entrada e saída
 
 	bash ./mvnw spring-boot:run
 
-## Testando a Aplicação Opção 1
-
 **Swagger**
 - A API pode ser testada diretamente através do Swagger. Abra [http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html) no seu navegador para explorar e testar os endpoints disponíveis.
